@@ -18,7 +18,7 @@ const paypalBody = `
 
         <br><br>
 
-        <p>You've sent {{VALUEPRICE}} to {{VALUEEMAIL}}</p>
+        <p>You've sent {{VALUEPRICE}} to {{IndySasso}}</p>
 
         <br><br><br>
 
